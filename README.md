@@ -45,7 +45,7 @@ npm test
 
 ## Improvements
 
-- Encapsulate `Match` object into `Tournament` object, especially if we wanting to support more than one tournament
+- Encapsulate `Match` object into `Tournament` object, especially if we're wanting to support more than one tournament
 - Better error handling, and throwing exceptions where necessary
 - Procedural and functional logic in handling the user's input can be converted to be more object-oriented
-- Supporting user's mistakes in typing and formatting of queries
+- Supporting the user's mistakes in typing and formatting of queries
